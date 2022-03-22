@@ -1,4 +1,4 @@
-# NftGenerator Using NFTPort
+# Blend_My_NFTs Using NFTPort
 use ipfs, MetaMask, OpenSea to view
 
 1. Create Contract
